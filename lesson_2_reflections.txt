@@ -1,0 +1,1 @@
+What happens when you initialize a repository? Why do you need to do it? After you run git init it creates a new repository in the directory that you are currently on. and you can confirm this by running ls -a in the command line which will show you an output of .git among the files listed as in the directory. 
